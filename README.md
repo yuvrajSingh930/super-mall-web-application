@@ -8,10 +8,6 @@
 - Manage Offer details
 - Manage Category & Floor
 
-## System Design
-
-![alt text](<admin panel system design (unified mentor).png>)
-
 ### User
 
 - Category Wise Details
@@ -23,4 +19,3 @@
   - Floor Wise Details
   - View Shop Details
 
-![alt text](diagram-export-31-10-2024-08_02_02-1.png)
